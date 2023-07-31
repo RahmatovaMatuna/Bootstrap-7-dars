@@ -1,0 +1,11 @@
+.container{
+    margin: 200px;
+}
+.text{
+    position: relative;
+    left: 150px;
+}
+.call{
+    position: relative;
+    left: 150px;
+}
